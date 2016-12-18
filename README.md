@@ -1,4 +1,4 @@
-# PHPadventOfCode2016
+# PHPadventOfCode2015
 
 You can find the list of puzzles in here: http://adventofcode.com/
 
